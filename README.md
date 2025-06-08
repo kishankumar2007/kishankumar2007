@@ -23,7 +23,7 @@
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=kishankumar2007&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan2007&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar2007&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 ##
