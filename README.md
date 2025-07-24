@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h3>Profile Views 👀</h3> <img src="https://profile-counter.glitch.me/kishankumar2007/count.svg" />
+<h3>Profile Views 👀</h3> <img src="https://profile-counter.deno.dev/:kishankumar2007:/count.svg" alt="Key:: Visitor's Count" />
 
 
 <h2 align="center">About Me</h2>
