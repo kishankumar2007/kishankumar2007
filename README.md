@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h3>Profile Views 👀</h3> ![</Visitor Count](https://profile-counter.glitch.me/kishankumar2007/count.svg)
+<h3>Profile Views 👀</h3> <img src="https://profile-counter.glitch.me/kishankumar2007/count.svg" />
 
 
 <h2 align="center">About Me</h2>
