@@ -1,40 +1,89 @@
-# Hi 👋, I'm Kishan Kumar
+<h1 align="center">Hi 👋 I'm Kishan Kumar</h1>
 
-### A passionate Full Stack developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishankumar2007&label=Profile views&color=0e75b6&style=flat" alt="kishankumar2007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishankumar2007" alt="kishankumar2007" /></a> </p>
-
-- 🔭 I'm currently working on **Smart Waste Management System**
-
-- 🌱 I'm currently learning **TypeScript & Next.js**
-
-- 🤝 I'm looking for help with **learning Data Structure & Algorithm **
-
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, REST APIs, HTML, CSS, Git & GitHub**
-
-- 📫 How to reach me **kishan.kumar.dev2007@gmail.com**
-
-- ⚡ Fun fact **I treat debugging like a puzzle game and love building web apps that actually solve real problems.**
-
-- 👨‍💻 All of my projects are available at **[https://kishan-kr.vercel.app](https://kishan-kr.vercel.app)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1ofX-74nXb5FdEw_ZBOyisbnY2b-hCun8/view?usp=drive_link](https://drive.google.com/file/d/1ofX-74nXb5FdEw_ZBOyisbnY2b-hCun8/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/kishankumar2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kishankumar2007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kishankr2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishankr2007" height="30" width="40" /></a>
-<a href="https://leetcode.com/kishankumar2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishankumar2007" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer;Building+Cool+Web+Projects;Backend+Learner;Full+Stack+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kishankumar2007&label=Visitors&color=6A0DAD&style=flat-square" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishankumar2007&show_icons=true&locale=en&layout=compact" alt="kishankumar2007" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishankumar2007&show_icons=true&locale=en" alt="kishankumar2007" /></p>
+<h2 align="center">About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishankumar2007&" alt="kishankumar2007" /></p>
+<table align="center" width="100%">
+<tr>
+<td width="60%" align="center">
 
+<div align="left">
+
+Hello! My name is **Kishan Kumar**, and I enjoy creating things that live on the internet. I'm a passionate developer with strong attention to detail, good communication skills, and the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
+
+> **"I am not what happened to me, I am what I choose to become."** 🌟
+
+</div>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kishankumar2007&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=material-palenight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishankumar2007&layout=compact&theme=material-palenight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishankumar2007&theme=midnight-purple"/>
+</p>
+
+---
+
+<h2 align="center">🧰 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,tailwind,python,git,vscode" />
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishankumar2007&theme=react-dark&bg_color=0D1117&color=6A0DAD&line=6A0DAD&point=FFFFFF"/>
+</p>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kishankr2007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://kishan-kr.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
