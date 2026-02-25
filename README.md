@@ -74,6 +74,9 @@ Hello! My name is **Kishan Kumar**, and I enjoy creating things that live on the
   <a href="https://kishan-kr.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+<a href="https://leetcode.com/kishankumar2007/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
