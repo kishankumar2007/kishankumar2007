@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kishan Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer;Building+Cool+Web+Projects;Backend+Learner;Full+Stack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer;Building+Cool+Web+Projects;Backend+Learner;Frontend+Engineer" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ Hello! My name is **Kishan Kumar**, and I enjoy creating things that live on the
   <a href="https://www.linkedin.com/in/kishankr2007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://kishan-kr.vercel.app/" target="_blank">
+  <a href="https://kishan.codes/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 <a href="https://leetcode.com/kishankumar2007/" target="_blank">
